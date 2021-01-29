@@ -1,0 +1,143 @@
+h1 {
+	/* color: seagreen; */
+	/* background-color: black; */
+	font-family: serif;
+	text-shadow: 2px 2px 5px red;
+	/* border: lightblue 6px solid; */
+	text-align: center;
+}
+
+h7 {
+	text-shadow: 2px 2px 5px darkblue;
+}
+
+.states {
+	color: seagreen;
+	background-color: yellow;
+	font-family: serif;
+	border: lightblue 6px solid;
+	text-align: center;
+
+
+}
+/*
+.states li {
+	height: 20;
+   	width: 20;
+	list-style-image:url("../assets/spencer.jpg");:
+}*/
+
+* {
+	margin:0;
+	padding: 0;
+	/*background-color: orange;*/
+}
+
+.a {
+	text-align: center;r
+}
+
+
+body {
+	/*Spencer Ernst '22*/
+	/* background-image:url("../assets/spencer.jpg"); */
+	/*background-repeat: no-repeat;*/
+	background-color: #637074;
+}
+.vid {
+	min-width: 100%;
+ 	min-height: 100%;
+}
+
+.toppage {
+	background-color: #BDD4E7
+}
+h4 {
+	/*font-family: serif;*/
+	text-shadow: 2px 2px 5px red;
+	/*color: yellow;*/
+	/* background-color: red; */
+	/*font-size: 20px;*/
+
+	font-size: 20px;
+	/*1 en is 16px*/
+	line-height: 1em;
+	margin:1em;
+	color: #FBF5F3;
+
+	/*border-color: darkblue;
+	border-width: 6px;
+	border-style: solid;*/
+
+		/*same as above */
+
+}
+p {
+	color: #FBF5F3;
+	/*font-family: serif;*/
+	/*color: yellow;*/
+	/* background-color: red; */
+	/*font-size: 20px;*/
+
+	font:bold 1em serif;
+	/*1 en is 16px*/
+	line-height: 0.6em;
+	margin:1em;
+	text-shadow: 2px 2px 5px purple;
+
+	/*border-color: darkblue;
+	border-width: 6px;
+	border-style: solid;*/
+
+		/*same as above */
+
+
+}
+
+.title-box {
+	color: white;
+}
+
+.container {
+	border: violet 6px bold;
+	width: 75%;
+	margin:auto;
+}
+
+.heading-title {
+	color: #FBF5F3;
+	line-height: 0.6em;
+}
+
+img {
+  border-radius: 40%;
+}
+
+.title-box {
+	color: white;
+}
+
+.thinking  {
+	text-decoration:underline red;
+}
+
+.button {
+	background-color:#4F5D75;
+	color: white;
+	padding: 10px 15px;
+	border: 1px solid gray;
+}
+.button:hover {
+	background-color: #FBF5F3;
+}
+
+.navigation-bar {
+	/* position: fixed; */
+	left:15px;
+	bottom:15%;
+	text-align: center;
+	padding: 34px;
+	margin-left: 100px
+	/*margin-bottom: 3em;*/
+	width: 70%;
+}

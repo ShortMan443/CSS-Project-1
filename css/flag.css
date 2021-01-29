@@ -1,0 +1,35 @@
+* {
+	background-color: red;
+
+}
+img {
+	width: 25%;
+	position: absolute;
+	background-color: transparent;
+	top: 24%;
+	left: 38%;
+}
+
+.bar1 {
+	position: fixed;
+	top: 33%;
+	left:0%;
+	bottom:66%;
+	text-align: center;
+	background-color: white;
+	/*margin-bottom: 3em;*/
+	width: 100%;
+	padding: 33%;
+}
+.bar2 {
+	position: fixed;
+	left:0%;
+	top: 66%;
+	bottom:30%;
+	text-align: center;
+	background-color: red;
+	/*margin-bottom: 3em;*/
+	width: 100%;
+	padding: 33%;
+
+}
